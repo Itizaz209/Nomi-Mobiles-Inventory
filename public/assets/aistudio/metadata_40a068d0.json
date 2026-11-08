@@ -1,0 +1,6 @@
+{
+  "name": "NOMI MOBILES",
+  "description": "Offline-first mobile shop management app for iPhone and Android inventory, sales, purchases, customer receipts, and profit tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

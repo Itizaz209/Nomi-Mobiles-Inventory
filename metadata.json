@@ -1,0 +1,6 @@
+{
+  "name": "NOMI MOBILES",
+  "description": "Mobile shop management app for iPhone & Android handsets with sales, purchases, inventory, barcode & IMEI scanner, and profit reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
